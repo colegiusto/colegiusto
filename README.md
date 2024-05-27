@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm a Mecahnical Engineering student and UC Santa Barbara, interested in Control Systems and Machine Learning. 
+
 <!--
 **colegiusto/colegiusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
